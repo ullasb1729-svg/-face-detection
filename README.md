@@ -20,6 +20,6 @@ This project is ideal for beginners to understand basic computer vision concepts
 - Python
 - OpenCV
 
----
 
-## Project Structure
+
+
